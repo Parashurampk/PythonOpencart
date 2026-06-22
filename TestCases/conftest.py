@@ -6,6 +6,11 @@ from selenium import webdriver
 from selenium.webdriver.remote.webdriver import WebDriver
 from pytest_metadata.plugin import metadata_key
 
+from Pages.LoginPage import LoginPage
+from Utilities.CustomLogger import LogGen
+from Utilities.ReadProperties import ReadConfig
+
+
 #==============================Command Line Option=========================
 def pytest_addoption(parser):
     parser.addoption(
@@ -41,6 +46,30 @@ def setUp(browser):
 
     driver.quit()
 
+# ============================== Login Fixture ===============================
+
+@pytest.fixture()
+def login(setUp):
+
+    logger = LogGen.loggen()
+    base_url = ReadConfig.getApplicationURL()
+    username = ReadConfig.getUseremail()
+    password = ReadConfig.getPassword()
+
+    logger.info("************* Login Started *************")
+
+    driver = setUp
+    driver.get(base_url)
+    lp = LoginPage(driver)
+    lp.clickMyAccountBtn()
+    lp.clickLoginBtn()
+    lp.setUsername(username)
+    lp.setPassword(password)
+    lp.doLogin()
+
+    logger.info("************* Login Completed *************")
+    return driver
+
 #================ HTML Report Metadata============================
 def pytest_configure(config):
     config.stash[metadata_key]["Project Name"] = "OpenCartAutomation"
@@ -75,3 +104,5 @@ def pytest_runtest_makereport(item, call):
 
             except Exception as e:
                 print(f"\nUnable to capture screenshot: {e}")
+
+
