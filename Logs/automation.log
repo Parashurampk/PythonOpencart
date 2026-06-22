@@ -1,0 +1,263 @@
+2026-06-21 12:33:53,242 - root - INFO - *************  Test_001_Log  in****************
+2026-06-21 12:33:53,242 - root - INFO - *************  Verifying Home page Title  ****************
+2026-06-21 12:33:54,485 - root - INFO - *************  Home page Title is passed  ****************
+2026-06-21 12:43:04,565 - root - INFO - *************  Test_001_Log  in****************
+2026-06-21 12:43:04,565 - root - INFO - *************  Verifying Home page Title  ****************
+2026-06-21 12:43:06,359 - root - INFO - *************  Home page Title is passed  ****************
+2026-06-21 12:43:22,025 - root - INFO - *************  Test_001_Log  in****************
+2026-06-21 12:43:22,025 - root - INFO - *************  Verifying Home page Title  ****************
+2026-06-21 12:43:23,412 - root - INFO - *************  Home page Title is passed  ****************
+2026-06-21 12:43:34,531 - root - INFO - *************  Test_001_Log  in****************
+2026-06-21 12:43:34,532 - root - INFO - *************  Verifying Home page Title  ****************
+2026-06-21 12:43:35,773 - root - INFO - *************  Home page Title is passed  ****************
+2026-06-21 12:48:57,875 - root - INFO - *************  Test_001_Log  in****************
+2026-06-21 12:48:57,875 - root - INFO - *************  Verifying Home page Title  ****************
+2026-06-21 12:48:59,359 - root - INFO - *************  Home page Title is passed  ****************
+2026-06-21 12:49:03,070 - root - INFO - *************  verifying the login test  ****************
+2026-06-21 12:49:05,758 - root - INFO - *************  login test is passed  ****************
+2026-06-21 12:49:25,192 - root - INFO - *************  Test_001_Log  in****************
+2026-06-21 12:49:25,192 - root - INFO - *************  Verifying Home page Title  ****************
+2026-06-21 12:49:26,591 - root - INFO - *************  Home page Title is passed  ****************
+2026-06-21 12:49:30,067 - root - INFO - *************  verifying the login test  ****************
+2026-06-21 12:49:32,315 - root - ERROR - *************  login test is failed  ****************
+2026-06-21 12:51:56,384 - root - INFO - *************  Test_001_Log  in****************
+2026-06-21 12:51:56,384 - root - INFO - *************  Verifying Home page Title  ****************
+2026-06-21 12:52:01,765 - root - INFO - *************  Home page Title is passed  ****************
+2026-06-21 12:52:05,201 - root - INFO - *************  verifying the login test  ****************
+2026-06-21 12:52:11,204 - root - INFO - *************  login test is passed  ****************
+2026-06-21 13:02:04,327 - root - INFO - ************* Verifying Home Page Title *************
+2026-06-21 13:02:05,501 - root - INFO - Actual Title: Your Store
+2026-06-21 13:02:08,690 - root - INFO - ************* Verifying Login *************
+2026-06-21 13:02:10,815 - root - INFO - Actual Title after Login: Account Login
+2026-06-21 13:06:34,243 - root - INFO - ************* Verifying Home Page Title *************
+2026-06-21 13:06:35,202 - root - INFO - Actual Title: Your Store
+2026-06-21 13:06:38,496 - root - INFO - ************* Verifying Login *************
+2026-06-21 13:06:40,964 - root - INFO - Actual Title after Login: Account Login
+2026-06-21 13:07:42,077 - root - INFO - ************* Verifying Home Page Title *************
+2026-06-21 13:07:44,167 - root - INFO - Actual Title: Your Store
+2026-06-21 13:07:48,108 - root - INFO - ************* Verifying Login *************
+2026-06-21 13:07:50,082 - root - INFO - Actual Title after Login: My Account
+2026-06-21 13:08:45,730 - root - INFO - ************* Verifying Home Page Title *************
+2026-06-21 13:08:46,831 - root - INFO - Actual Title: Your Store
+2026-06-21 13:08:50,100 - root - INFO - ************* Verifying Login *************
+2026-06-21 13:08:52,178 - root - INFO - Actual Title after Login: Account Login
+2026-06-21 13:19:02,619 - root - INFO - ************* Verifying Home Page Title *************
+2026-06-21 13:19:03,527 - root - INFO - ************* Home page Title is passed *************
+2026-06-21 13:19:07,370 - root - INFO - ************* Verifying Login *************
+2026-06-21 13:19:09,580 - root - INFO - Actual Title after Login: My Account
+2026-06-21 13:19:09,580 - root - INFO - ************* Login Test is Passed *************
+2026-06-21 13:30:58,307 - root - INFO - ************* Verifying Home Page Title *************
+2026-06-21 13:30:59,444 - root - INFO - ************* Home page Title is passed *************
+2026-06-21 13:31:02,778 - root - INFO - ************* Verifying Login *************
+2026-06-21 13:31:05,264 - root - INFO - Actual Title after Login: My Account
+2026-06-21 13:31:05,264 - root - INFO - ************* Login Test is Passed *************
+2026-06-21 13:43:03,227 - root - INFO - *************  Test_002_Log started in****************
+2026-06-21 13:43:03,227 - root - INFO - *************  Verifying Registering Opencart  ****************
+2026-06-21 13:43:08,988 - root - INFO - *************  Test_002_Log ended in****************
+2026-06-21 13:58:38,082 - root - INFO - ************* Test_002_Register Started *************
+2026-06-21 13:58:39,448 - root - INFO - Using data: Michael, Jackson, tony60@example.net, 1333273342, G#585Tqx
+2026-06-21 13:58:43,435 - root - INFO - *************  Test_002_Log ended in****************
+2026-06-21 16:09:40,682 - root - INFO - ************* Test_002_DDT_Login started ****************
+2026-06-21 16:09:59,633 - root - INFO - DDT Login test passed
+2026-06-21 16:10:12,056 - root - INFO - ************* Test_002_DDT_Login started ****************
+2026-06-21 16:10:30,441 - root - INFO - DDT Login test passed
+2026-06-21 16:20:46,630 - root - INFO - Actual Products : []
+2026-06-21 16:20:46,631 - root - ERROR - MacBook is NOT displayed
+2026-06-21 16:34:10,788 - root - INFO - ************* Verifying Featured Products *************
+2026-06-21 16:51:13,156 - root - INFO - ************* Verifying Home Page Title *************
+2026-06-21 16:56:18,638 - root - INFO - ************* Verifying Home Page Title *************
+2026-06-21 16:56:20,355 - root - INFO - Actual Products : []
+2026-06-21 17:05:43,069 - root - INFO - ************* Verifying Featured Products *************
+2026-06-21 17:05:44,397 - root - INFO - Actual Products Found: ['MacBook', 'iPhone', 'Apple Cinema 30"', 'Canon EOS 5D']
+2026-06-21 17:05:44,398 - root - INFO - MacBook is displayed
+2026-06-21 17:05:44,398 - root - INFO - iPhone is displayed
+2026-06-21 17:05:44,398 - root - INFO - Apple Cinema 30" is displayed
+2026-06-21 17:05:44,398 - root - INFO - Canon EOS 5D is displayed
+2026-06-21 17:05:44,398 - root - INFO - ************* Featured Products Verification Passed *************
+2026-06-21 17:09:17,872 - root - INFO - ************* Verifying Featured Products *************
+2026-06-21 17:09:18,898 - root - INFO - Actual Products Found: ['MacBook', 'iPhone', 'Apple Cinema 30"', 'Canon EOS 5D']
+2026-06-21 17:09:18,898 - root - INFO - ************* Featured Products Verification Passed *************
+2026-06-21 17:10:09,614 - root - INFO - ************* Verifying Featured Products *************
+2026-06-21 17:10:10,834 - root - INFO - Actual Products Found: ['MacBook', 'iPhone', 'Apple Cinema 30"', 'Canon EOS 5D']
+2026-06-21 17:10:10,834 - root - INFO - ************* Featured Products Verification Passed *************
+2026-06-21 17:17:05,590 - root - INFO - Actual Products : ['MacBook', 'iPhone', 'Apple Cinema 30"', 'Canon EOS 5D']
+2026-06-21 17:17:05,591 - root - INFO - Expected Products : ['MacBook', 'iPhone', 'Apple Cinema 30"', 'Canon EOS 5D']
+2026-06-21 17:17:05,591 - root - INFO - ************* Featured Products Verification Passed *************
+2026-06-21 17:36:27,393 - root - INFO - Actual Products : ['MacBook', 'iPhone', 'Apple Cinema 30"', 'Canon EOS 5D']
+2026-06-21 17:36:27,394 - root - INFO - Expected Products : ['MacBook', 'iPhone', 'Apple Cinema 30"', 'Canon EOS 5D']
+2026-06-21 17:36:27,394 - root - INFO - ************* Featured Products Verification Passed *************
+2026-06-21 17:36:41,121 - root - INFO - Actual Menus : ['Desktops', 'Laptops & Notebooks', 'Components', 'Tablets', 'Software', 'Phones & PDAs', 'Cameras', 'MP3 Players']
+2026-06-21 17:36:41,122 - root - INFO - Expected Menus : ['Desktops', 'Laptops & Notebooks', 'Components', 'Tablets', 'Software', 'Phones & PDAs', 'Cameras', 'MP3 Players']
+2026-06-21 17:36:41,122 - root - INFO - ************* Menu Tabs Verification Passed *************
+2026-06-21 17:44:14,698 - root - INFO - Actual Products : ['MacBook', 'iPhone', 'Apple Cinema 30"', 'Canon EOS 5D']
+2026-06-21 17:44:14,698 - root - INFO - Expected Products : ['MacBook', 'iPhone', 'Apple Cinema 30"', 'Canon EOS 5D']
+2026-06-21 17:44:14,699 - root - INFO - ************* Featured Products Verification Passed *************
+2026-06-21 17:44:19,356 - root - INFO - Actual Menus : ['Desktops', 'Laptops & Notebooks', 'Components', 'Tablets', 'Software', 'Phones & PDAs', 'Cameras', 'MP3 Players']
+2026-06-21 17:44:19,356 - root - INFO - Expected Menus : ['Desktops', 'Laptops & Notebooks', 'Components', 'Tablets', 'Software', 'Phones & PDAs', 'Cameras', 'MP3 Players']
+2026-06-21 17:44:19,356 - root - INFO - ************* Menu Tabs Verification Passed *************
+2026-06-21 17:45:09,360 - root - INFO - Actual Products : ['MacBook', 'iPhone', 'Apple Cinema 30"', 'Canon EOS 5D']
+2026-06-21 17:45:09,360 - root - INFO - Expected Products : ['MacBook', 'iPhone', 'Apple Cinema 30"', 'Canon EOS 5D']
+2026-06-21 17:45:09,360 - root - INFO - ************* Featured Products Verification Passed *************
+2026-06-21 17:45:14,085 - root - INFO - Actual Menus : ['Desktops', 'Laptops & Notebooks', 'Components', 'Tablets', 'Software', 'Phones & PDAs', 'Cameras', 'MP3 Players']
+2026-06-21 17:45:14,085 - root - INFO - Expected Menus : ['Desktops', 'Laptops & Notebooks', 'Components', 'Tablets', 'Software', 'Phones & PDAs', 'Cameras', 'MP3 Players']
+2026-06-21 17:45:14,085 - root - INFO - ************* Menu Tabs Verification Passed *************
+2026-06-21 17:57:48,016 - root - INFO - ************* Footer Links Verification Passed *************
+2026-06-21 18:03:23,275 - root - INFO - ************* Footer Links Verification Passed *************
+2026-06-21 18:11:21,621 - root - INFO - ************* Footer Links Verification Passed *************
+2026-06-21 18:16:36,771 - root - INFO - ************* Test_002_Register Started *************
+2026-06-21 18:16:38,418 - root - INFO - Using data: Rachel, Browning, pgarcia@example.org, 7662245009, )&1LRivJ
+2026-06-21 18:16:44,079 - root - INFO - *************  Test_002_Log ended in****************
+2026-06-21 18:19:51,206 - root - INFO - ************* Footer Links Verification Passed *************
+2026-06-21 18:19:51,206 - root - INFO - ************* Footer Links Verification Passed *************
+2026-06-21 18:19:51,206 - root - INFO - ************* Footer Links Verification Passed *************
+2026-06-21 18:19:51,206 - root - INFO - ************* Footer Links Verification Passed *************
+2026-06-21 18:19:51,206 - root - INFO - ************* Footer Links Verification Passed *************
+2026-06-21 18:19:51,206 - root - INFO - ************* Footer Links Verification Passed *************
+2026-06-21 18:19:51,206 - root - INFO - ************* Footer Links Verification Passed *************
+2026-06-21 18:19:54,570 - root - INFO - ************* Verifying Featured Products *************
+2026-06-21 18:19:54,570 - root - INFO - ************* Verifying Featured Products *************
+2026-06-21 18:19:54,570 - root - INFO - ************* Verifying Featured Products *************
+2026-06-21 18:19:54,570 - root - INFO - ************* Verifying Featured Products *************
+2026-06-21 18:19:54,570 - root - INFO - ************* Verifying Featured Products *************
+2026-06-21 18:19:54,570 - root - INFO - ************* Verifying Featured Products *************
+2026-06-21 18:19:54,570 - root - INFO - ************* Verifying Featured Products *************
+2026-06-21 18:19:55,306 - root - INFO - Actual Products Found: []
+2026-06-21 18:19:55,306 - root - INFO - Actual Products Found: []
+2026-06-21 18:19:55,306 - root - INFO - Actual Products Found: []
+2026-06-21 18:19:55,306 - root - INFO - Actual Products Found: []
+2026-06-21 18:19:55,306 - root - INFO - Actual Products Found: []
+2026-06-21 18:19:55,306 - root - INFO - Actual Products Found: []
+2026-06-21 18:19:55,306 - root - INFO - Actual Products Found: []
+2026-06-21 18:19:55,306 - root - ERROR - ************* Featured Products Verification Failed *************
+2026-06-21 18:19:55,306 - root - ERROR - ************* Featured Products Verification Failed *************
+2026-06-21 18:19:55,306 - root - ERROR - ************* Featured Products Verification Failed *************
+2026-06-21 18:19:55,306 - root - ERROR - ************* Featured Products Verification Failed *************
+2026-06-21 18:19:55,306 - root - ERROR - ************* Featured Products Verification Failed *************
+2026-06-21 18:19:55,306 - root - ERROR - ************* Featured Products Verification Failed *************
+2026-06-21 18:19:55,306 - root - ERROR - ************* Featured Products Verification Failed *************
+2026-06-21 18:19:59,856 - root - INFO - Actual Products : ['MacBook', 'iPhone', 'Apple Cinema 30"', 'Canon EOS 5D']
+2026-06-21 18:19:59,856 - root - INFO - Actual Products : ['MacBook', 'iPhone', 'Apple Cinema 30"', 'Canon EOS 5D']
+2026-06-21 18:19:59,856 - root - INFO - Actual Products : ['MacBook', 'iPhone', 'Apple Cinema 30"', 'Canon EOS 5D']
+2026-06-21 18:19:59,856 - root - INFO - Actual Products : ['MacBook', 'iPhone', 'Apple Cinema 30"', 'Canon EOS 5D']
+2026-06-21 18:19:59,856 - root - INFO - Actual Products : ['MacBook', 'iPhone', 'Apple Cinema 30"', 'Canon EOS 5D']
+2026-06-21 18:19:59,856 - root - INFO - Actual Products : ['MacBook', 'iPhone', 'Apple Cinema 30"', 'Canon EOS 5D']
+2026-06-21 18:19:59,856 - root - INFO - Actual Products : ['MacBook', 'iPhone', 'Apple Cinema 30"', 'Canon EOS 5D']
+2026-06-21 18:19:59,857 - root - INFO - Expected Products : ['MacBook', 'iPhone', 'Apple Cinema 30"', 'Canon EOS 5D']
+2026-06-21 18:19:59,857 - root - INFO - Expected Products : ['MacBook', 'iPhone', 'Apple Cinema 30"', 'Canon EOS 5D']
+2026-06-21 18:19:59,857 - root - INFO - Expected Products : ['MacBook', 'iPhone', 'Apple Cinema 30"', 'Canon EOS 5D']
+2026-06-21 18:19:59,857 - root - INFO - Expected Products : ['MacBook', 'iPhone', 'Apple Cinema 30"', 'Canon EOS 5D']
+2026-06-21 18:19:59,857 - root - INFO - Expected Products : ['MacBook', 'iPhone', 'Apple Cinema 30"', 'Canon EOS 5D']
+2026-06-21 18:19:59,857 - root - INFO - Expected Products : ['MacBook', 'iPhone', 'Apple Cinema 30"', 'Canon EOS 5D']
+2026-06-21 18:19:59,857 - root - INFO - Expected Products : ['MacBook', 'iPhone', 'Apple Cinema 30"', 'Canon EOS 5D']
+2026-06-21 18:19:59,857 - root - INFO - ************* Featured Products Verification Passed *************
+2026-06-21 18:19:59,857 - root - INFO - ************* Featured Products Verification Passed *************
+2026-06-21 18:19:59,857 - root - INFO - ************* Featured Products Verification Passed *************
+2026-06-21 18:19:59,857 - root - INFO - ************* Featured Products Verification Passed *************
+2026-06-21 18:19:59,857 - root - INFO - ************* Featured Products Verification Passed *************
+2026-06-21 18:19:59,857 - root - INFO - ************* Featured Products Verification Passed *************
+2026-06-21 18:19:59,857 - root - INFO - ************* Featured Products Verification Passed *************
+2026-06-21 18:20:04,414 - root - INFO - Actual Menus : ['Desktops', 'Laptops & Notebooks', 'Components', 'Tablets', 'Software', 'Phones & PDAs', 'Cameras', 'MP3 Players']
+2026-06-21 18:20:04,414 - root - INFO - Actual Menus : ['Desktops', 'Laptops & Notebooks', 'Components', 'Tablets', 'Software', 'Phones & PDAs', 'Cameras', 'MP3 Players']
+2026-06-21 18:20:04,414 - root - INFO - Actual Menus : ['Desktops', 'Laptops & Notebooks', 'Components', 'Tablets', 'Software', 'Phones & PDAs', 'Cameras', 'MP3 Players']
+2026-06-21 18:20:04,414 - root - INFO - Actual Menus : ['Desktops', 'Laptops & Notebooks', 'Components', 'Tablets', 'Software', 'Phones & PDAs', 'Cameras', 'MP3 Players']
+2026-06-21 18:20:04,414 - root - INFO - Actual Menus : ['Desktops', 'Laptops & Notebooks', 'Components', 'Tablets', 'Software', 'Phones & PDAs', 'Cameras', 'MP3 Players']
+2026-06-21 18:20:04,414 - root - INFO - Actual Menus : ['Desktops', 'Laptops & Notebooks', 'Components', 'Tablets', 'Software', 'Phones & PDAs', 'Cameras', 'MP3 Players']
+2026-06-21 18:20:04,414 - root - INFO - Actual Menus : ['Desktops', 'Laptops & Notebooks', 'Components', 'Tablets', 'Software', 'Phones & PDAs', 'Cameras', 'MP3 Players']
+2026-06-21 18:20:04,414 - root - INFO - Expected Menus : ['Desktops', 'Laptops & Notebooks', 'Components', 'Tablets', 'Software', 'Phones & PDAs', 'Cameras', 'MP3 Players']
+2026-06-21 18:20:04,414 - root - INFO - Expected Menus : ['Desktops', 'Laptops & Notebooks', 'Components', 'Tablets', 'Software', 'Phones & PDAs', 'Cameras', 'MP3 Players']
+2026-06-21 18:20:04,414 - root - INFO - Expected Menus : ['Desktops', 'Laptops & Notebooks', 'Components', 'Tablets', 'Software', 'Phones & PDAs', 'Cameras', 'MP3 Players']
+2026-06-21 18:20:04,414 - root - INFO - Expected Menus : ['Desktops', 'Laptops & Notebooks', 'Components', 'Tablets', 'Software', 'Phones & PDAs', 'Cameras', 'MP3 Players']
+2026-06-21 18:20:04,414 - root - INFO - Expected Menus : ['Desktops', 'Laptops & Notebooks', 'Components', 'Tablets', 'Software', 'Phones & PDAs', 'Cameras', 'MP3 Players']
+2026-06-21 18:20:04,414 - root - INFO - Expected Menus : ['Desktops', 'Laptops & Notebooks', 'Components', 'Tablets', 'Software', 'Phones & PDAs', 'Cameras', 'MP3 Players']
+2026-06-21 18:20:04,414 - root - INFO - Expected Menus : ['Desktops', 'Laptops & Notebooks', 'Components', 'Tablets', 'Software', 'Phones & PDAs', 'Cameras', 'MP3 Players']
+2026-06-21 18:20:04,414 - root - INFO - ************* Menu Tabs Verification Passed *************
+2026-06-21 18:20:04,414 - root - INFO - ************* Menu Tabs Verification Passed *************
+2026-06-21 18:20:04,414 - root - INFO - ************* Menu Tabs Verification Passed *************
+2026-06-21 18:20:04,414 - root - INFO - ************* Menu Tabs Verification Passed *************
+2026-06-21 18:20:04,414 - root - INFO - ************* Menu Tabs Verification Passed *************
+2026-06-21 18:20:04,414 - root - INFO - ************* Menu Tabs Verification Passed *************
+2026-06-21 18:20:04,414 - root - INFO - ************* Menu Tabs Verification Passed *************
+2026-06-21 18:20:07,558 - root - INFO - ************* Verifying Home Page Title *************
+2026-06-21 18:20:07,558 - root - INFO - ************* Verifying Home Page Title *************
+2026-06-21 18:20:07,558 - root - INFO - ************* Verifying Home Page Title *************
+2026-06-21 18:20:07,558 - root - INFO - ************* Verifying Home Page Title *************
+2026-06-21 18:20:07,558 - root - INFO - ************* Verifying Home Page Title *************
+2026-06-21 18:20:07,558 - root - INFO - ************* Verifying Home Page Title *************
+2026-06-21 18:20:07,558 - root - INFO - ************* Verifying Home Page Title *************
+2026-06-21 18:20:08,873 - root - INFO - ************* Home page Title is passed *************
+2026-06-21 18:20:08,873 - root - INFO - ************* Home page Title is passed *************
+2026-06-21 18:20:08,873 - root - INFO - ************* Home page Title is passed *************
+2026-06-21 18:20:08,873 - root - INFO - ************* Home page Title is passed *************
+2026-06-21 18:20:08,873 - root - INFO - ************* Home page Title is passed *************
+2026-06-21 18:20:08,873 - root - INFO - ************* Home page Title is passed *************
+2026-06-21 18:20:08,873 - root - INFO - ************* Home page Title is passed *************
+2026-06-21 18:20:12,006 - root - INFO - ************* Verifying Login *************
+2026-06-21 18:20:12,006 - root - INFO - ************* Verifying Login *************
+2026-06-21 18:20:12,006 - root - INFO - ************* Verifying Login *************
+2026-06-21 18:20:12,006 - root - INFO - ************* Verifying Login *************
+2026-06-21 18:20:12,006 - root - INFO - ************* Verifying Login *************
+2026-06-21 18:20:12,006 - root - INFO - ************* Verifying Login *************
+2026-06-21 18:20:12,006 - root - INFO - ************* Verifying Login *************
+2026-06-21 18:20:13,531 - root - INFO - Actual Title after Login: Account Login
+2026-06-21 18:20:13,531 - root - INFO - Actual Title after Login: Account Login
+2026-06-21 18:20:13,531 - root - INFO - Actual Title after Login: Account Login
+2026-06-21 18:20:13,531 - root - INFO - Actual Title after Login: Account Login
+2026-06-21 18:20:13,531 - root - INFO - Actual Title after Login: Account Login
+2026-06-21 18:20:13,531 - root - INFO - Actual Title after Login: Account Login
+2026-06-21 18:20:13,531 - root - INFO - Actual Title after Login: Account Login
+2026-06-21 18:20:13,531 - root - ERROR - ************* Login Test is Failed *************
+2026-06-21 18:20:13,531 - root - ERROR - ************* Login Test is Failed *************
+2026-06-21 18:20:13,531 - root - ERROR - ************* Login Test is Failed *************
+2026-06-21 18:20:13,531 - root - ERROR - ************* Login Test is Failed *************
+2026-06-21 18:20:13,531 - root - ERROR - ************* Login Test is Failed *************
+2026-06-21 18:20:13,531 - root - ERROR - ************* Login Test is Failed *************
+2026-06-21 18:20:13,531 - root - ERROR - ************* Login Test is Failed *************
+2026-06-21 18:20:17,224 - root - INFO - ************* Test_002_DDT_Login started ****************
+2026-06-21 18:20:17,224 - root - INFO - ************* Test_002_DDT_Login started ****************
+2026-06-21 18:20:17,224 - root - INFO - ************* Test_002_DDT_Login started ****************
+2026-06-21 18:20:17,224 - root - INFO - ************* Test_002_DDT_Login started ****************
+2026-06-21 18:20:17,224 - root - INFO - ************* Test_002_DDT_Login started ****************
+2026-06-21 18:20:17,224 - root - INFO - ************* Test_002_DDT_Login started ****************
+2026-06-21 18:20:17,224 - root - INFO - ************* Test_002_DDT_Login started ****************
+2026-06-21 18:20:34,650 - root - INFO - DDT Login test passed
+2026-06-21 18:20:34,650 - root - INFO - DDT Login test passed
+2026-06-21 18:20:34,650 - root - INFO - DDT Login test passed
+2026-06-21 18:20:34,650 - root - INFO - DDT Login test passed
+2026-06-21 18:20:34,650 - root - INFO - DDT Login test passed
+2026-06-21 18:20:34,650 - root - INFO - DDT Login test passed
+2026-06-21 18:20:34,650 - root - INFO - DDT Login test passed
+2026-06-21 18:20:38,482 - root - INFO - ************* Test_002_Register Started *************
+2026-06-21 18:20:38,482 - root - INFO - ************* Test_002_Register Started *************
+2026-06-21 18:20:38,482 - root - INFO - ************* Test_002_Register Started *************
+2026-06-21 18:20:38,482 - root - INFO - ************* Test_002_Register Started *************
+2026-06-21 18:20:38,482 - root - INFO - ************* Test_002_Register Started *************
+2026-06-21 18:20:38,482 - root - INFO - ************* Test_002_Register Started *************
+2026-06-21 18:20:38,482 - root - INFO - ************* Test_002_Register Started *************
+2026-06-21 18:20:39,382 - root - INFO - Using data: Stephen, Joyce, qdavis@example.net, 2704822215, u#U5YoGb
+2026-06-21 18:20:39,382 - root - INFO - Using data: Stephen, Joyce, qdavis@example.net, 2704822215, u#U5YoGb
+2026-06-21 18:20:39,382 - root - INFO - Using data: Stephen, Joyce, qdavis@example.net, 2704822215, u#U5YoGb
+2026-06-21 18:20:39,382 - root - INFO - Using data: Stephen, Joyce, qdavis@example.net, 2704822215, u#U5YoGb
+2026-06-21 18:20:39,382 - root - INFO - Using data: Stephen, Joyce, qdavis@example.net, 2704822215, u#U5YoGb
+2026-06-21 18:20:39,382 - root - INFO - Using data: Stephen, Joyce, qdavis@example.net, 2704822215, u#U5YoGb
+2026-06-21 18:20:39,382 - root - INFO - Using data: Stephen, Joyce, qdavis@example.net, 2704822215, u#U5YoGb
+2026-06-21 18:20:43,474 - root - INFO - *************  Test_002_Log ended in****************
+2026-06-21 18:20:43,474 - root - INFO - *************  Test_002_Log ended in****************
+2026-06-21 18:20:43,474 - root - INFO - *************  Test_002_Log ended in****************
+2026-06-21 18:20:43,474 - root - INFO - *************  Test_002_Log ended in****************
+2026-06-21 18:20:43,474 - root - INFO - *************  Test_002_Log ended in****************
+2026-06-21 18:20:43,474 - root - INFO - *************  Test_002_Log ended in****************
+2026-06-21 18:20:43,474 - root - INFO - *************  Test_002_Log ended in****************
+2026-06-21 18:20:46,522 - root - INFO - *************  Test_002_Log started in****************
+2026-06-21 18:20:46,522 - root - INFO - *************  Test_002_Log started in****************
+2026-06-21 18:20:46,522 - root - INFO - *************  Test_002_Log started in****************
+2026-06-21 18:20:46,522 - root - INFO - *************  Test_002_Log started in****************
+2026-06-21 18:20:46,522 - root - INFO - *************  Test_002_Log started in****************
+2026-06-21 18:20:46,522 - root - INFO - *************  Test_002_Log started in****************
+2026-06-21 18:20:46,522 - root - INFO - *************  Test_002_Log started in****************
+2026-06-21 18:20:46,523 - root - INFO - *************  Verifying Registering Opencart  ****************
+2026-06-21 18:20:46,523 - root - INFO - *************  Verifying Registering Opencart  ****************
+2026-06-21 18:20:46,523 - root - INFO - *************  Verifying Registering Opencart  ****************
+2026-06-21 18:20:46,523 - root - INFO - *************  Verifying Registering Opencart  ****************
+2026-06-21 18:20:46,523 - root - INFO - *************  Verifying Registering Opencart  ****************
+2026-06-21 18:20:46,523 - root - INFO - *************  Verifying Registering Opencart  ****************
+2026-06-21 18:20:46,523 - root - INFO - *************  Verifying Registering Opencart  ****************

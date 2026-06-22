@@ -1,0 +1,19 @@
+{
+  "featured_products": [
+    "MacBook",
+    "iPhone",
+    "Apple Cinema 30\"",
+    "Canon EOS 5D"
+  ],
+
+  "menu_tabs": [
+    "Desktops",
+    "Laptops & Notebooks",
+    "Components",
+    "Tablets",
+    "Software",
+    "Phones & PDAs",
+    "Cameras",
+    "MP3 Players"
+  ]
+}

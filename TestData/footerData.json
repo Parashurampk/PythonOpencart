@@ -1,0 +1,28 @@
+{
+  "information": [
+    "About Us",
+    "Delivery Information",
+    "Privacy Policy",
+    "Terms & Conditions"
+  ],
+
+  "customer_service": [
+    "Contact Us",
+    "Returns",
+    "Site Map"
+  ],
+
+  "extras": [
+    "Brands",
+    "Gift Certificates",
+    "Affiliate",
+    "Specials"
+  ],
+
+  "my_account": [
+    "My Account",
+    "Order History",
+    "Wish List",
+    "Newsletter"
+  ]
+}
