@@ -341,3 +341,19 @@
 2026-06-23 00:22:22,543 - root - INFO - Menu Texts: ['My Account', 'Edit Account', 'Password', 'Address Book', 'Wish List', 'Order History', 'Downloads', 'Recurring payments', 'Reward Points', 'Returns', 'Transactions', 'Newsletter', 'Logout']
 2026-06-23 00:22:22,544 - root - INFO - ***** Test Address Menu Completed *****
 2026-06-23 00:22:22,544 - root - INFO - ***** Test Address Menu Completed *****
+2026-06-23 12:43:20,895 - root - INFO - *************  Test_002_Log started in****************
+2026-06-23 12:43:20,896 - root - INFO - *************  Verifying Registering Opencart  ****************
+2026-06-23 12:43:26,227 - root - INFO - Registration Successful
+2026-06-23 12:44:52,177 - root - INFO - *************  Test_002_Log started in****************
+2026-06-23 12:44:52,177 - root - INFO - *************  Verifying Registering Opencart  ****************
+2026-06-23 12:44:57,145 - root - ERROR - Registration Failed
+2026-06-23 12:45:15,040 - root - INFO - *************  Test_002_Log started in****************
+2026-06-23 12:45:15,041 - root - INFO - *************  Verifying Registering Opencart  ****************
+2026-06-23 12:45:20,580 - root - INFO - Registration Successful
+2026-06-23 12:49:38,136 - root - INFO - *************  Test_002_Log started in****************
+2026-06-23 12:49:38,137 - root - INFO - *************  Verifying Registering Opencart  ****************
+2026-06-23 12:49:43,591 - root - ERROR - Registration Failed
+2026-06-23 12:50:01,234 - root - INFO - *************  Test_002_Log started in****************
+2026-06-23 12:50:01,235 - root - INFO - *************  Verifying Registering Opencart  ****************
+2026-06-23 12:50:06,215 - root - INFO - Registration Successful
+2026-06-23 12:50:06,426 - root - INFO - ************* Register Test Completed *************

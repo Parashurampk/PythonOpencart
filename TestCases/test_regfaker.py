@@ -6,6 +6,7 @@ from Utilities.ReadProperties import ReadConfig
 from Utilities.CustomLogger import LogGen
 from Pages.RegisterPage import  RegisterPage
 
+
 class Test_004_Register:
 
     base_url = ReadConfig.getApplicationURL()
